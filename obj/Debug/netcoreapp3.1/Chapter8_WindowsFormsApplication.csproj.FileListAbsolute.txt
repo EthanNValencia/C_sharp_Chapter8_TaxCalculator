@@ -1,0 +1,15 @@
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\bin\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.exe
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\bin\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.deps.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\bin\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.runtimeconfig.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\bin\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.runtimeconfig.dev.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\bin\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\bin\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\obj\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\obj\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.Form1.resources
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\obj\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\obj\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\obj\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.AssemblyInfo.cs
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\obj\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\obj\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\obj\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_WindowsFormsApplication\obj\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\bin\Debug\netcoreapp3.1\Chapter8_TaxCalculator.exe
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\bin\Debug\netcoreapp3.1\Chapter8_TaxCalculator.deps.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\bin\Debug\netcoreapp3.1\Chapter8_TaxCalculator.runtimeconfig.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\bin\Debug\netcoreapp3.1\Chapter8_TaxCalculator.runtimeconfig.dev.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\bin\Debug\netcoreapp3.1\Chapter8_TaxCalculator.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\bin\Debug\netcoreapp3.1\Chapter8_TaxCalculator.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\obj\Debug\netcoreapp3.1\Chapter8_TaxCalculator.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\obj\Debug\netcoreapp3.1\Chapter8_WindowsFormsApplication.Form1.resources
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\obj\Debug\netcoreapp3.1\Chapter8_TaxCalculator.csproj.GenerateResource.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\obj\Debug\netcoreapp3.1\Chapter8_TaxCalculator.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\obj\Debug\netcoreapp3.1\Chapter8_TaxCalculator.AssemblyInfo.cs
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\obj\Debug\netcoreapp3.1\Chapter8_TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\obj\Debug\netcoreapp3.1\Chapter8_TaxCalculator.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\obj\Debug\netcoreapp3.1\Chapter8_TaxCalculator.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter8_TaxCalculator\obj\Debug\netcoreapp3.1\Chapter8_TaxCalculator.genruntimeconfig.cache
